@@ -1,2 +1,4 @@
 linha1
+linha2
 linha que vai dar conflito
+
